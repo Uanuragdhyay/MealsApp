@@ -1,16 +1,20 @@
-# mealsapp
+# 🍽️ Meals App
 
-A new Flutter project.
+A modern Android Meals App that lets users explore delicious meals, filter by categories, and view details — built using **Jetpack Compose**, **ViewModel**, and **Navigation Component**.
 
-## Getting Started
+git add.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌐 Browse meals by categories
+- 📋 View detailed meal info with ingredients and instructions
+- 🔍 Filter meals based on preferences
+- ❤️ Mark meals as favorites
+- 🧭 Smooth navigation using Navigation Component
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+
+
