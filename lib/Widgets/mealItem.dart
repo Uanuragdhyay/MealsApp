@@ -37,7 +37,7 @@ class MealItem extends StatelessWidget {
               width: double.infinity,
             ),
             Positioned(
-              top: 0,
+
               bottom: 0,
               left: 0,
               right: 0,
@@ -56,10 +56,6 @@ class MealItem extends StatelessWidget {
                           fontWeight: FontWeight.bold,
                           fontSize: 20,
                           color: Colors.white),
-                    ),
-                    SizedBox(
-                      height: 118,
-                      width: 18,
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,

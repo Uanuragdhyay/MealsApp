@@ -4,6 +4,7 @@ import 'package:mealsapp/Screens/categories.dart';
 import 'package:mealsapp/Screens/meals.dart';
 import 'package:mealsapp/data/dummydata.dart';
 import 'package:mealsapp/Screens/tabs.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 
 final theme = ThemeData(
@@ -16,7 +17,7 @@ final theme = ThemeData(
 );
 
 void main() {
-  runApp(const MyApp());
+  runApp(const ProviderScope(child: MyApp()));
 }
 
 class MyApp extends StatelessWidget {
